@@ -6,7 +6,7 @@ import navIcon2 from '../assets/img/nav-icon2.svg';
 import navIcon3 from '../assets/img/nav-icon3.svg';
 import { HashLink } from 'react-router-hash-link';
 import {BrowserRouter as Router} from "react-router-dom";
-
+// git remote set-url origin https://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@github.com/ahmad-alezo/webbage
 export const NavBar = () => {
 
   const [activeLink, setActiveLink] = useState('home');
